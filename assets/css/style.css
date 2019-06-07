@@ -1,0 +1,57 @@
+
+/* Jumbotron specs */
+
+
+.jumbotron {
+    background-color: black;
+    
+    text-anchor: middle
+
+    
+}
+
+#gameSection, #scoreSection {
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.gold {
+    color: gold;
+    
+}
+.headertext {
+    color: silver !important;
+}
+#buttonSection {
+
+	
+	padding: 0px;
+	padding-top: 70px;
+	padding-bottom: 40px;
+}
+
+/* font specs */
+h1, h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	font-family: 'Times New Roman', sans-serif;
+}
+
+.numberBox {
+	font-size: 125px;
+	margin: 0px;
+}
+
+/* thumbnail specs */
+.pics {
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
